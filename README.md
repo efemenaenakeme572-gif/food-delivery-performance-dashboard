@@ -1,5 +1,8 @@
 
 Food Delivery Performance Dashboard
+
+📊 View the full dashboard preview in the PDF file included in this repository.
+
 Business Intelligence dashboard developed in Power BI to analyse operational and sales performance within a food delivery business environment.
 
 -Project Context
